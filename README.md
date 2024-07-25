@@ -19,7 +19,6 @@ dependencies:
 
 ![Pub.dev Popularity](example.gif)
 
-<img src="https://raw.githubusercontent.com/emrhnzngn/app_visibility_manager/master/example.gif" alt="Example" height="400"/>
 
 ```dart
 class MyApp extends StatelessWidget {
