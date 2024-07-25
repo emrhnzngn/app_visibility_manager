@@ -14,7 +14,7 @@ Add this to your package's `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  app_visibility_manager: ^1.0.0
+  app_visibility_manager: ^0.0.2
 ```
 
 ![Pub.dev Popularity](example.gif)

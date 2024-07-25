@@ -1,6 +1,6 @@
 name: app_visibility_manager
 description: A Flutter package to manage UI visibility based on the app's lifecycle state.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/emrhnzngn/app_visibility_manager
 issue_tracker: https://github.com/emrhnzngn/app_visibility_manager/issues
 homepage: https://github.com/emrhnzngn/app_visibility_manager
