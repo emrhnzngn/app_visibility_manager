@@ -16,7 +16,7 @@ Add this to your package's `pubspec.yaml` file:
 dependencies:
   app_visibility_manager: ^1.0.0
 ```
-<img src="https://raw.githubusercontent.com/emrhnzngn/app_visibility_manager/main/example.gif" alt="Example" height="400"/>
+<img src="https://raw.githubusercontent.com/emrhnzngn/app_visibility_manager/master/example.gif" alt="Example" height="400"/>
 
 ```dart
 class MyApp extends StatelessWidget {
